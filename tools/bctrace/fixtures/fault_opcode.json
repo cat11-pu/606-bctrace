@@ -1,0 +1,15 @@
+{
+  "name": "fault_opcode",
+  "code_hex": "033bcab1",
+  "max_stack": 1,
+  "max_locals": 1,
+  "static": true,
+  "arg_slots": 0,
+  "locals": [
+    {"slot": 0, "kind": "int", "value": "0"}
+  ],
+  "stack": [],
+  "constants": [],
+  "step_limit": 50,
+  "stop_pc": -1
+}

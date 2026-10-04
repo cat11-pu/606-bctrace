@@ -1,0 +1,17 @@
+{
+  "name": "sum",
+  "code_hex": "033c033d1b1aa2000d1c1b603d840101a7fff41cac",
+  "max_stack": 2,
+  "max_locals": 3,
+  "static": true,
+  "arg_slots": 1,
+  "locals": [
+    {"slot": 0, "kind": "int", "value": "5"},
+    {"slot": 1, "kind": "int", "value": "0"},
+    {"slot": 2, "kind": "int", "value": "0"}
+  ],
+  "stack": [],
+  "constants": [],
+  "step_limit": 200,
+  "stop_pc": -1
+}

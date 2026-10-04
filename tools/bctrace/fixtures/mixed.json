@@ -1,0 +1,20 @@
+{
+  "name": "mixed",
+  "code_hex": "10023b12033c140009418400011aaa000000002b00000002000000040000001a000000200000002620883ca7000e1b913ca70008023ca700031bac",
+  "max_stack": 2,
+  "max_locals": 4,
+  "static": true,
+  "arg_slots": 0,
+  "locals": [
+    {"slot": 0, "kind": "int", "value": "0"},
+    {"slot": 1, "kind": "int", "value": "0"},
+    {"slot": 2, "kind": "long", "value": "1000000000"}
+  ],
+  "stack": [],
+  "constants": [
+    {"index": 3, "kind": "int", "value": "7"},
+    {"index": 9, "kind": "long", "value": "1000000000"}
+  ],
+  "step_limit": 100,
+  "stop_pc": -1
+}

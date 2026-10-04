@@ -1,0 +1,15 @@
+{
+  "name": "floatmath",
+  "code_hex": "18000f6318006baf",
+  "max_stack": 4,
+  "max_locals": 2,
+  "static": true,
+  "arg_slots": 2,
+  "locals": [
+    {"slot": 0, "kind": "double", "value": "2.5"}
+  ],
+  "stack": [],
+  "constants": [],
+  "step_limit": 50,
+  "stop_pc": -1
+}

@@ -1,0 +1,13 @@
+{
+  "name": "refnull",
+  "code_hex": "01c6000504ac02ac",
+  "max_stack": 1,
+  "max_locals": 0,
+  "static": true,
+  "arg_slots": 0,
+  "locals": [],
+  "stack": [],
+  "constants": [],
+  "step_limit": 20,
+  "stop_pc": -1
+}

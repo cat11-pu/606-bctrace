@@ -1,0 +1,15 @@
+{
+  "name": "divzero",
+  "code_hex": "04036cb1",
+  "max_stack": 2,
+  "max_locals": 1,
+  "static": true,
+  "arg_slots": 0,
+  "locals": [
+    {"slot": 0, "kind": "int", "value": "0"}
+  ],
+  "stack": [],
+  "constants": [],
+  "step_limit": 50,
+  "stop_pc": -1
+}
